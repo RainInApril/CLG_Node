@@ -1,0 +1,16 @@
+[
+    {
+        "firstName": "John",
+        "lastName": "Doe"
+    },
+    {
+        "firstName": "Adam",
+        "lastName": "Smith"
+    }
+]
+
+//Find all students query
+{}
+
+//Find a specific query
+{ "firstName": "Adam" }
